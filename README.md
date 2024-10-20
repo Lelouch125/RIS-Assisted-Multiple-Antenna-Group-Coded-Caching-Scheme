@@ -1,2 +1,2 @@
-# RIS-Assisted-Multiple-Antenna-Group-Coded-Caching-Scheme
-Reflecting Intelligent Surfaces-Assisted Multiple-Antenna Group Coded Caching Scheme
+# RIS-Assisted-Multiple-Antenna-Group-Coded-Caching
+Reflecting Intelligent Surfaces-Assisted Multiple-Antenna Group Coded Caching 
